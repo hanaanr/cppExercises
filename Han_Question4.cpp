@@ -8,7 +8,7 @@
 using namespace std;
 
 // Important note: I created two separate functions in this program to answer Question 4c(i) and 4c(ii). These are called in lines
-// 346 and 347, one at a time - resulting in the desired output in the files called "outputYearData.txt" and "outputMonthData.txt".
+// 347 and 348, one at a time - resulting in the desired output in the files called "outputYearData.txt" and "outputMonthData.txt".
 // The plotting was done in a separate program (check "Han_PlotsQuestion4.cpp").
 // Please note that only one of these functions should be called at a time (while the other can be called in another run)
 // for optimal results :) 
